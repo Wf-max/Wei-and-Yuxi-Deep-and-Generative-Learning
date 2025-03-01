@@ -1,0 +1,10 @@
+# The goal of this project is to develop a deep learning model to detect tuberculosis (TB) from chest X-ray images. 
+# TB is a serious infectious disease that affects the lungs, and early detection is crucial for treatment and prevention. 
+# Traditional diagnosis methods can be time-consuming and require expert radiologists. 
+# This project aims to provide an automated solution that can assist in identifying TB using image processing and machine learning techniques.
+# To achieve this, a convolutional neural network (CNN) model is trained on a dataset of chest X-ray images labeled as either "Normal" or "TB Positive." 
+# The images are preprocessed by converting them to grayscale, resizing them, and normalizing pixel values. 
+# The CNN architecture consists of multiple convolutional layers, max pooling, and dense layers to extract features and classify the images. 
+# The model is trained and evaluated, achieving an accuracy of 80% on test data.
+# This system can support medical professionals by providing quick and reliable preliminary TB detection, reducing the burden on healthcare facilities. 
+# Future improvements may involve optimizing the model with more data, fine-tuning hyperparameters, and integrating it into a practical diagnostic tool for clinical use.
