@@ -1,0 +1,153 @@
+id,gender,age,county,ptb,remarks
+1000,male,31,Shenxhen,0,normal
+1001,male,64,Shenxhen,0,normal
+1002,male,35,Shenxhen,0,normal
+1003,male,32,Shenxhen,1,"STB,ATB,tuberculosis pleuritis"
+1004,male,2,Shenxhen,1,secondary PTB  in the bilateral upper field
+1005,male,17,Shenxhen,0,normal
+1006,male,25,Shenxhen,1,Right PTB with fibrous changes
+1007,male,30,Shenxhen,0,normal
+1008,female,27,Shenxhen,1,secondary PTB  in the bilateral upper field
+1009,female,31,Shenxhen,1,right upper PTB
+1010,male,37,Shenxhen,1,PTB in the right upper field
+1011,female,25,Shenxhen,0,normal
+1012,female,26,Shenxhen,0,normal
+1013,male,46,Shenxhen,1,right lower field PTB
+1014,female,57,Shenxhen,0,normal
+1015,male,23,Shenxhen,0,",normal"
+1016,female,33,Shenxhen,1,right secondary PTB
+1017,male,45,Shenxhen,1,PTB in the right upper field
+1018,male,25,Shenxhen,1,left PTB
+1019,male,25,Shenxhen,0,normal
+1020,male,74,Shenxhen,1,Right PTB
+1021,female,48,Shenxhen,1,PTB in the right upper field
+1022,male,23,Shenxhen,0,normal
+1023,male,27,Shenxhen,1,secondary PTB  in the left upper field
+1024,female,26,Shenxhen,0,normal
+1025,male,37,Shenxhen,0,",normal"
+1026,female,20,Shenxhen,1,PTB in the right upper field
+1027,male,56,Shenxhen,1,Right PTB
+1028,male,25,Shenxhen,0,normal
+1029,male,27,Shenxhen,1,Right PTB
+1030,male,39,Shenxhen,0,normal
+1031,male,35,Shenxhen,1,Right PTB
+1032,male,39,Shenxhen,0,normal
+1033,male,43,Shenxhen,1,Bilateral secondary PTB
+1034,female,31,Shenxhen,1,right secondary PTB
+1035,male,38,Shenxhen,1,left secondary PTB
+1036,male,32,Shenxhen,1,"bilateral PTB,  right upper lobe atelectasis"
+1037,male,65,Shenxhen,1,bilateral PTB
+1038,male,28,Shenxhen,1,PTB in the bilateral upper field
+1039,female,47,Shenxhen,0,normal
+1040,male,60,Shenxhen,0,normal
+1041,male,38,Shenxhen,0,normal
+1042,female,27,Shenxhen,0,normal
+1043,male,28,Shenxhen,0,normal
+1044,male,31,Shenxhen,1,STB
+1045,male,27,Shenxhen,0,normal
+1046,female,29,Shenxhen,1,bilateral PTB
+1047,Male,33,Shenxhen,1,secondary PTB  in the left upper field
+1048,male,34,Shenxhen,0,",normal"
+1049,male,23,Shenxhen,1,PTB in the left upper field
+1050,female,43,Shenxhen,0,normal
+1051,female,5,Shenxhen,0,normal
+1052,male,22,Shenxhen,0,normal
+1053,male,25,Shenxhen,1,PTB in the right lower field
+1054,female,38,Shenxhen,1,"Left PTB, left pleural thickening"
+1055,male,34,Shenxhen,1,bilateral PTB
+1056,male,24,Shenxhen,1,"STB,ATB"
+1057,female,30,Shenxhen,1,PTB in the left upper field
+1058,female,26,Shenxhen,1,secondary PTB  in the right upper field
+1059,female,39,Shenxhen,1,PTB in the left upper field
+1060,male,26,Shenxhen,1,PTB in the left upper field
+1061,male,23,Shenxhen,0,normal
+1062,male,68,Shenxhen,0,",normale"
+1063,male,28,Shenxhen,0,normal
+1064,male,37,Shenxhen,1,"STB,NATB"
+1065,male,32,Shenxhen,0,normal
+1066,male,28,Shenxhen,0,normal
+1067,female,42,Shenxhen,0,normal
+1068,male,28,Shenxhen,0,normal
+1069,male,48,Shenxhen,0,normal
+1070,male,22,Shenxhen,0,normal
+1071,male,18,Shenxhen,1,left PTB
+1072,male,1,Shenxhen,0,normal
+1073,female,22,Shenxhen,1,right secondary PTB
+1074,female,78,Shenxhen,1,right secondary PTB  with bilateral  pleurisy
+1075,male,38,Shenxhen,1,Right PTB
+1076,male,25,Shenxhen,0,normal
+1077,female,53,Shenxhen,0,normal
+1078,male,45,Shenxhen,0,normal
+1079,female,26,Shenxhen,0,normal
+1080,"Male,",43,Shenxhen,1,secondary PTB  in the bilateral upper field
+1081,male,33,Shenxhen,0,normal
+1082,female,29,Shenxhen,1,bilateral PTB
+1083,male,32,Shenxhen,1,right secondary PTB
+1084,female,34,Shenxhen,0,normal
+1085,male,21,Shenxhen,1,secondary PTB  in the bilateral upper fields
+1086,male,30,Shenxhen,0,normal
+1087,female,5,Shenxhen,0,normal
+1088,female,59,Shenxhen,1,bilateral PTB
+1089,male,42,Shenxhen,1,Right PTB
+1090,male,45,Shenxhen,1,right upper PTB
+1091,male,26,Shenxhen,1,Right PTB
+1092,Male,31,Shenxhen,1,Right secondary PTB in the upper and middle fields
+1093,female,32,Shenxhen,1,PTB in the right upper field
+1094,female,28,Shenxhen,1,PTB in the right upper field
+1095,femal,60,Shenxhen,0,",normal"
+1096,male,8,Shenxhen,0,normal
+1097,male,23,Shenxhen,0,",normal"
+1098,male,20,Shenxhen,0,normal
+1099,male,29,Shenxhen,1,secondary PTB  in the left upper field
+1100,female,53,Shenxhen,0,normal
+1653,male,23,Montgomery,0,normal
+1654,male,44,Montgomery,0,normal
+1655,male,47,Montgomery,1,peripheral homogeneous infiltrate LUL; active pneumonia likely
+1656,female,32,Montgomery,0,normal
+1657,female,21,Montgomery,0,normal
+1658,female,25,Montgomery,0,normal
+1659,female,26,Montgomery,0,normal
+1660,male,44,Montgomery,0,normal
+1661,female,29,Montgomery,0,normal
+1662,female,56,Montgomery,0,normal
+1663,female,70,Montgomery,0,normal
+1664,female,18,Montgomery,0,normal
+1665,male,40,Montgomery,1,extensive cavitary TB smear and culture positive involving LUL lungula and some areas in rt lung as well; pt had previously normal CXR (1Y ago) but positive TST and contact with active case
+1666,male,54,Montgomery,1,"improving infiltrate, active TB"
+1667,female,16,Montgomery,0,normal
+1668,male,67,Montgomery,1,"smear positive, active TB LUL apex"
+1669,male,52,Montgomery,1,Rt apical scarring. LUL scars and some infiltrates as well; findings consistent with TB; ?active
+1670,female,10,Montgomery,0,normal
+1671,female,31,Montgomery,1,cavitary nodular infiltrate in RUL; active TB
+1672,female,34,Montgomery,0,normal
+1673,male,50,Montgomery,0,normal
+1674,male,31,Montgomery,1,worsening diffuse infiltrate bilaterally with fine nodular appearance; recent PCP treatment; recurrent PCP likely although miliary TB is also observed.
+1675,female,19,Montgomery,0,normal
+1676,female,44,Montgomery,1,
+1677,male,52,Montgomery,0,normal
+1678,male,48,Montgomery,0,normal
+1679,female,89,Montgomery,1,on Rx for culture proven TB. has been clearing of infiltrates in te rt lung. thre is some re-accomodation of pleural fluid along lateral left chest wall.
+1680,male,33,Montgomery,1,stable inactive scars in RUL; post treatment for abscillary TB
+1681,female,34,Montgomery,0,normal
+1682,female,26,Montgomery,1,"dense scarring in LUL with volume loss, lesser scarring in RUL; appears similar to old filmes from 3Y ago and 4Y ago. Treated 4Y ago for 6M for INH resistant TB"
+1683,female,40,Montgomery,0,normal
+1684,female,89,Montgomery,1,inactive scars RML. has completed treatment
+1685,male,4,Montgomery,0,normal
+1686,female,84,Montgomery,1,bilateral miliary nodules diffusely with RML infiltrate and right pleural effusion; an old calcified granuloma is present behind heart in the LLL; all findings consistent with active TB
+1687,female,27,Montgomery,0,normal
+1688,female,11,Montgomery,0,normal
+1689,female,85,Montgomery,1,
+1690,male,68,Montgomery,1,"bilateral changes of cavitary TB in upper lobes, more extensive on the right; the RML appears to be involved as well."
+1691,male,59,Montgomery,1,"inactive TB scars LUL, unchanged for 2Y, pt previously treated DOT (17Y ago) for pan-sensitive disease"
+1692,male,44,Montgomery,0,normal
+1693,male,44,Montgomery,0,normal
+1694,male,16,Montgomery,1,improved LUL infiltrate and cavity. Active TB on therapy.
+1695,male,15,Montgomery,1,active TB; cavitary infiltrarte LUL; non-consolidated;
+1696,female,25,Montgomery,0,normal
+1697,female,56,Montgomery,0,normal
+1698,male,73,Montgomery,1,
+1699,male,47,Montgomery,1,"persistent rt pleural peel with some interval improvement with focal atelectasis in rt lung; anterior wedging of T5, T6 with loss of intervertebral disc space. Findings consistent with h/o spinal TB and pleural TB. Currently on Rx."
+1700,female,30,Montgomery,0,normal
+1701,female,44,Montgomery,0,normal
+1702,female,30,Montgomery,1,left pleural effusion; best seen on lateral view; with some scar and soft infiltrates in the LUL on the PA and lordotic views; active TB on pleura and lung likely
+1703,female,45,Montgomery,0,normal
